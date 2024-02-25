@@ -1,5 +1,7 @@
 # Công cụ lấy bình luận trên Vuihoc.vn
-Đây là công cụ để... well, lấy bình luận trên vuihoc.vn.
+Đây là công cụ để... well, lấy bình luận trên vuihoc.vn.  
+Xin lưu ý rằng chương trình này chỉ nhằm phục mục đích học tập. TUYỆT ĐỐI không sử dụng phần mềm này cho mục đích phạm pháp.  
+Tác giả của chương trình python siêu đơn giản này (Vũ Gia Khoa) sẽ không chịu bất cứ thiệt hại nào gây ra cho Vuihoc.vn do người sử dụng của chương trình này gây ra.
 # Hướng dẫn sử dụng
 Khi đang ở trong lớp học, check cái địa chỉ web của lớp học.  
 VD : https://vuihoc.vn/class-group-209/living-14685  
