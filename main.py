@@ -15,4 +15,4 @@ while True:
 
     if current_comment != comment["data"][0]:
         current_comment = comment["data"][0]
-        print("[" + current_comment["update_date"] + current_comment["user"]["full_name"] + " : " + current_comment["comment"])
+        print("[" + current_comment["update_date"] + "] " + current_comment["user"]["full_name"] + " : " + current_comment["comment"])
