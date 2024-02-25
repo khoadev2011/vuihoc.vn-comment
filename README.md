@@ -6,7 +6,7 @@ VD : https://vuihoc.vn/class-group-209/living-14685
 Lấy đoạn số cuối sau living, trong trường hợp này là 14685. Bỏ cái số đó vào chương trình và xong, toàn bộ bình luận đã được lấy.  
 Nếu muốn lấy dưới dạng file log, chỉnh lại logging = True.  
 
-#FAQ
+# FAQ
 Q : Một vài bình luận vốn không thấy trên trang web lại xuất hiện trong này!  
 A : Đây là vấn đề của trang web, chuyện này hết sức bình thường.  
   
